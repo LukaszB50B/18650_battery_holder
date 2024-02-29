@@ -1,5 +1,5 @@
 # 18650_battery_holder
-18650 battery holder for BMS testing
+18650 battery holder for BMS testing 4S, 8S and when joining together any x 4S.
 
 # Gerber files.
 Gerber files included to the repo (zip)
